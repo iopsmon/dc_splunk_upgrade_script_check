@@ -5,7 +5,7 @@
 #This script can be run on any Splunk type server - cfg results will be produced if applicable.
 #DATE:12/01/2023
 #AUTHOR:Deepak Chohan
-#VERSION:2.2
+#VERSION:2.3
 #Creates folder and places the outputs/tar file into this location ~/SERVER_NAME_DATE_TIME
 #Checks if user has >2GB space in ~/ if not script will not run - can be adjusted - due to size of tar backup
 #Gets OS Kernel / IP / CPU/MEM /tmp folder Info
